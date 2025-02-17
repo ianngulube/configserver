@@ -4,5 +4,5 @@ quarkus:
     username: postgres
     password: postgres
     jdbc:
-      url: jdbc:postgresql://localhost:5432/project-db-2
+      url: jdbc:postgresql://localhost:5432/project-db-3
       max-size: 16
