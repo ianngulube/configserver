@@ -6,5 +6,5 @@ quarkus:
     username: postgres
     password: postgres
     jdbc:
-      url: jdbc:postgresql://localhost:5432/project-db-3
+      url: jdbc:postgresql://host.docker.internal:5412/project-db-2
       max-size: 16
